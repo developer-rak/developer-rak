@@ -1,43 +1,36 @@
-<h1 align="left">Hi 👋, I'm developer-rak</h1>
-<h3 align="left">A passionate frontend developer from Pakistan.</h3>
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>, I'm developer-rak</h1>
+<h3 align="center">A Passionate Front-End Developer From Pakistan.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-rak&label=Profile%20views&color=0e75b6&style=flat" alt="developer-rak" /> </p>
 
-<p align="left"> <a href="https://twitter.com/developer_rak" target="blank"><img src="https://img.shields.io/twitter/follow/developer_rak?logo=twitter&style=for-the-badge" alt="developer_rak" /></a> </p>
+# 💫 About Me:
 
-- 🌱 I’m currently learning **React Native**
+ <img style="border-radius: 30px" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" align="right" width="270px" height="170px" style="border-radius:50px;"/>🌱 I’m currently learning **React Native**<br>
+ 👨‍💻 All of my projects are available at [https://developer-rak.netlify.app/](https://developer-rak.netlify.app/)<br> 
+ 💬 Ask me about **Front End**<br> 
+ 📫 How to reach me (rkkalhoro09@gamil.com) <br>
+ ⚡ Fun fact  **Spicy 😻**
+ 
 
-- 👨‍💻 All of my projects are available at [https://developer-rak.netlify.app/](https://developer-rak.netlify.app/)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/developer_rak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/developer-rak) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/developer_rak?t=Ld5wJ6xyTH8dBmA0Omy13Q&s=09) 
 
-- 💬 Ask me about **Front End**
+## 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-- 📫 How to reach me **rkkalhoro09@gamil.com**
+## 📊 GitHub Stats:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-rak&theme=monokai&hide_border=false" align="center" width="50%" height="auto"/> <br/>
 
-- ⚡ Fun fact **Spicy 😻**
+![](https://github-readme-stats.vercel.app/api?username=developer-rak&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-rak&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="196px"/>
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-rak&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/developer_rak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developer_rak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/developer-rak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developer-rak" height="30" width="40" /></a>
-<a href="https://instagram.com/developer_rak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer_rak" height="30" width="40" /></a>
-</p>
+## ✍️ Random Dev Quote:
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" align="center" width="200px" height="200px"/>
+<!--![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)-->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<!--### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-rak&show_icons=true&locale=en&layout=compact" alt="developer-rak" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-rak&show_icons=true&locale=en" alt="developer-rak" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-rak&" alt="developer-rak" /></p>
+## ❤ Views:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-rak&label=Profile%20views&color=AD6600&style=circle" alt="developer-rak" /> </p>
+<!-- --/>
