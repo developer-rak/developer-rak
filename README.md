@@ -5,7 +5,7 @@
 # 💫 About Me:
 
  <img style="border-radius: 30px" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" align="right" width="270px" height="170px" style="border-radius:50px;"/>🌱 I’m currently learning **React Native**<br>
- 👨‍💻 All of my projects are available at [https://developer-rak.netlify.app/](https://developer-rak.netlify.app/)<br> 
+ 👨‍💻 All of my projects are available at <a href="https://developer-rak.netlify.app/" target="_blank">My Portfolio<br> 
  💬 Ask me about **Front End**<br> 
  📫 How to reach me (rkkalhoro09@gamil.com) <br>
  ⚡ Fun fact  **Spicy 😻**
