@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at <a href="https://developer-rak.netlify.app/" target="_blank"> My Portfolio </a>
 - 💬 Ask me about **Front End**
 - ⭐ 50+ Repositories on GitHub
-- 📫 How to reach me (rkkalhoro09@gamil.com)
+- 📫 How to reach me (rkkalhoro09@gmail.com)
 - ⚡ Fun fact  **Spicy 😻** 
 
  <br/>
