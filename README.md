@@ -6,7 +6,7 @@
 <a href="#"><img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" align="right" width="270px" height="170px" style="border-radius:50px;"/></a>
 
 - 🎓 Graduated in BS- Information Technology
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **TypeScript**
 - 👨‍💻 All of my projects are available at <a href="https://developer-rak.netlify.app/" target="_blank"> My Portfolio </a>
 - 💬 Ask me about **Front End**
 - ⭐ 50+ Repositories on GitHub
