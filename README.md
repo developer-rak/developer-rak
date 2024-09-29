@@ -6,11 +6,11 @@
 <a href="#"><img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" align="right" width="270px" height="170px" style="border-radius:50px;"/></a>
 
 - 🎓 Graduated in BS- Information Technology
+- 👨‍💻 See my portfolio at <a href="https://developer-rak.netlify.app/" target="_blank"> My Portfolio </a>
 - 🌱 I’m currently learning **GraphQL**
-- 👨‍💻 All of my projects are available at <a href="https://developer-rak.netlify.app/" target="_blank"> My Portfolio </a>
 - 💬 Ask me about **Front End**
 - ⭐ 50+ Repositories on GitHub
-- 📫 How to reach me (developer.rak99@gmail.com)
+- 📫 reach me [developer.rak99@gmail.com](mailto:developer.rak99@gmail.com)
 - ⚡ Fun fact  **Spicy 😻** 
 
  <br/>
